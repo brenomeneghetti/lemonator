@@ -1,0 +1,15 @@
+export const LIME = 'lime';
+export const LEMON = 'lemon';
+export const SPARKLING_WATER = 'sparking water';
+export const CHERRY = 'cherry';
+export const VODKA = 'vodka';
+export const SLICE_OF_GINGER = 'slice of ginger';
+export const SPRIG_OF_MINT = 'sprig of mint';
+export const SPRIG_OF_ROSEMARY = 'sprig of rosemary';
+export const HIBISCUS_TEA = 'hibiscus tea';
+export const LEMON_SYRUP = 'lemon syrup';
+export const ICE = 'ice'; 
+export const HURRICANE_GLASS = 'hurricane glass';
+export const MARGARITA_GLASS = 'margarita glass';
+export const HIGHBALL_GLASS = 'highball glass';
+export const OLD_FASHIONED_GLASS = 'old fashioned glass';
